@@ -1,6 +1,6 @@
 const WebSocket = require('ws');
 const http = require('http');
-
+//updatetest
 // 创建一个 HTTP 服务器
 const server = http.createServer((req, res) => {
   res.writeHead(200, { 'Content-Type': 'text/plain' });
